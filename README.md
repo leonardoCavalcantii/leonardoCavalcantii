@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cavalcanti-7a895819b/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.cavalcantfilho/)
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozinhow27&show_icons=true&theme=dracula)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoCavalcantii&show_icons=true&theme=dracula)
 
 ### - Technologies I work.
 
